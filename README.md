@@ -6,7 +6,7 @@
 
 ## Windows
 
-**Version:** 4.5.1 Build 
+**Version:** 4.5.1 Build  
 **Release Date:** Aug 18, 2022  
 **Status:** Latest Version
 
